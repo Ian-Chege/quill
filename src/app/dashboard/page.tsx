@@ -18,7 +18,7 @@ const DashboardPage = async () => {
 
   return (
     <div>
-      <h1>{user.email}</h1>
+      <h1>{user.email} Hello</h1>
     </div>
   )
 }
